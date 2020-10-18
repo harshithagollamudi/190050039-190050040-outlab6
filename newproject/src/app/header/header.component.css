@@ -1,0 +1,15 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+a {
+    font-size: 100%;
+}
+
+form {
+    font-size: medium;
+    margin: 50px auto;
+    width: 40%; 
+}
+button{
+    text-align: center;
+}
